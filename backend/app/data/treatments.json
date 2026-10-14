@@ -1,0 +1,132 @@
+{
+  "Tomato Early Blight": {
+    "crop": "Tomato",
+    "status": "Infected",
+    "severity": "Moderate",
+    "recommendation": "Prune and dispose of infected lower leaves immediately. Apply copper-based or chlorothalonil fungicide every 7-10 days during warm, humid conditions.",
+    "preventative_measures": [
+      "Water at the base of the plant to keep foliage dry (use drip irrigation)",
+      "Maintain a 2-3 year crop rotation away from nightshade family crops",
+      "Mulch soil around plants to prevent fungal spores from splashing onto leaves",
+      "Ensure proper plant spacing for adequate air circulation"
+    ],
+    "organic_options": "Apply organic copper spray or Bacillus subtilis bio-fungicide weekly."
+  },
+  "Tomato Late Blight": {
+    "crop": "Tomato",
+    "status": "Infected",
+    "severity": "High",
+    "recommendation": "Remove and destroy all heavily infected plants immediately to prevent rapid airborne spread. Treat surrounding healthy plants with preventive mancozeb or copper fungicide.",
+    "preventative_measures": [
+      "Plant certified disease-resistant tomato varieties",
+      "Avoid overhead watering, especially late in the afternoon",
+      "Destroy volunteer tomato and potato plants near the field",
+      "Monitor weather forecasts for cool, wet conditions favorable to blight"
+    ],
+    "organic_options": "Copper hydroxide formulations applied strictly as preventative measures before rains."
+  },
+  "Tomato Healthy": {
+    "crop": "Tomato",
+    "status": "Healthy",
+    "severity": "None",
+    "recommendation": "No disease detected. Continue standard agronomic practices, balanced fertilization, and routine pest scouting.",
+    "preventative_measures": [
+      "Maintain consistent soil moisture and avoid waterlogged roots",
+      "Apply balanced NPK fertilizer with calcium to avoid blossom end rot",
+      "Scout lower leaves weekly for early signs of fungal or bacterial spotting",
+      "Sanitize pruning shears between plants"
+    ],
+    "organic_options": "Use compost tea or seaweed extract foliar spray for natural plant vigor."
+  },
+  "Potato Early Blight": {
+    "crop": "Potato",
+    "status": "Infected",
+    "severity": "Moderate",
+    "recommendation": "Apply protectant fungicides such as chlorothalonil or azoxystrobin. Ensure nitrogen fertilization is balanced to prevent premature vine senescence.",
+    "preventative_measures": [
+      "Use certified disease-free seed tubers",
+      "Rotate with non-solanaceous crops like corn, beans, or grains",
+      "Avoid sprinkler irrigation during late afternoon or overcast days",
+      "Hill up soil well to protect developing tubers from spore wash"
+    ],
+    "organic_options": "Copper soap fungicide and potassium bicarbonate sprays."
+  },
+  "Potato Late Blight": {
+    "crop": "Potato",
+    "status": "Infected",
+    "severity": "High",
+    "recommendation": "Act urgently: cut and destroy vines if harvest is near to prevent tuber infection, or apply systemic fungicides (e.g., cymoxanil or mandipropamid) immediately.",
+    "preventative_measures": [
+      "Eliminate cull piles and volunteer potatoes in the surrounding vicinity",
+      "Allow at least 2 weeks between vine killing and harvest for skin set",
+      "Store tubers in well-ventilated, cool storage areas",
+      "Inspect foliage every 3 to 4 days during humid, overcast periods"
+    ],
+    "organic_options": "Bordeaux mixture (copper sulfate + lime) applied early in the growth season."
+  },
+  "Potato Healthy": {
+    "crop": "Potato",
+    "status": "Healthy",
+    "severity": "None",
+    "recommendation": "No disease detected. Potato canopy is vigorous. Ensure steady moisture during tuber initiation and bulk growth.",
+    "preventative_measures": [
+      "Hill soil around plant base to prevent tuber greening and pest access",
+      "Maintain proper spacing to optimize sunlight penetration and air movement",
+      "Avoid excess nitrogen application after tuber initiation",
+      "Inspect underside of foliage weekly for pest or blight symptoms"
+    ],
+    "organic_options": "Apply kelp meal and bio-stimulants to strengthen tuber development."
+  },
+  "Pepper Bacterial Spot": {
+    "crop": "Pepper",
+    "status": "Infected",
+    "severity": "Moderate to High",
+    "recommendation": "Apply fixed copper bactericide combined with mancozeb for improved bacterial control. Avoid working in the field when plants are wet.",
+    "preventative_measures": [
+      "Use hot-water treated or certified disease-free seeds and transplants",
+      "Sanitize stakes, trays, and gardening tools with 10% bleach solution",
+      "Practice minimum 1-year rotation away from peppers and tomatoes",
+      "Avoid overhead sprinkler irrigation"
+    ],
+    "organic_options": "Copper octanoate (copper soap) spray combined with neem oil extract."
+  },
+  "Pepper Healthy": {
+    "crop": "Pepper",
+    "status": "Healthy",
+    "severity": "None",
+    "recommendation": "No disease detected. Foliage is healthy. Maintain consistent irrigation and balanced nutrition for blossom and fruit development.",
+    "preventative_measures": [
+      "Provide consistent drip irrigation to avoid blossom end drop",
+      "Mulch beds to regulate soil temperature and conserve moisture",
+      "Maintain soil pH between 6.0 and 6.8 for optimal nutrient uptake",
+      "Monitor for aphids and whiteflies that can vector viral diseases"
+    ],
+    "organic_options": "Foliar spray with fish emulsion and compost tea during active vegetative growth."
+  },
+  "Corn Common Rust": {
+    "crop": "Corn / Maize",
+    "status": "Infected",
+    "severity": "Moderate",
+    "recommendation": "Foliar fungicides (such as strobilurin or triazole classes) are effective if applied at the first sign of pustules prior to tasseling.",
+    "preventative_measures": [
+      "Plant rust-resistant hybrid corn cultivars",
+      "Plant early in the season to avoid late-season spore influxes",
+      "Maintain balanced soil fertility and avoid excessive nitrogen",
+      "Destroy or till under crop residues after harvest"
+    ],
+    "organic_options": "Sulfur dusts or bio-fungicide sprays applied at first sign of rust pustules."
+  },
+  "Apple Apple Scab": {
+    "crop": "Apple",
+    "status": "Infected",
+    "severity": "Moderate",
+    "recommendation": "Rake and compost or burn fallen leaves in autumn to eliminate overwintering spores. Apply captan or myclobutanil fungicide starting at green tip stage.",
+    "preventative_measures": [
+      "Prune apple trees during dormancy to open canopy for rapid leaf drying",
+      "Select scab-resistant apple cultivars (e.g., Liberty, Freedom, Enterprise)",
+      "Apply urea spray to fallen leaves to accelerate leaf breakdown",
+      "Avoid overhead watering on the orchard canopy"
+    ],
+    "organic_options": "Lime sulfur or liquid copper sprays applied during dormant and green tip bud stages."
+  }
+}
